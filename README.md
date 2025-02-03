@@ -1,6 +1,6 @@
 # ✨ Bienvenue sur mon profil GitHub ! ✨
 
-![Coding Animation](https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif)
+[![Femme voilée travaillant sur ordinateur](https://media.giphy.com/media/l41YkZ1CSmG6YdcfK/giphy.gif)](https://giphy.com/)
 
 ## 👋 À propos de moi
 
