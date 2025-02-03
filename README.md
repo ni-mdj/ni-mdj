@@ -1,6 +1,6 @@
 # ✨ Bienvenue sur mon profil GitHub ! ✨
 
-[![Femme voilée travaillant sur ordinateur](https://media.giphy.com/media/l41YkZ1CSmG6YdcfK/giphy.gif)](https://giphy.com/)
+[![Génie Informatique](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=790b7611ggong3e8u0qlv056jixsbji9ctjshq9gci9cci7r&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://giphy.com/)
 
 ## 👋 À propos de moi
 
